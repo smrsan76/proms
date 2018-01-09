@@ -1,5 +1,5 @@
 # proms
-[![Is this project finished ?](https://img.shields.io/badge/finished-yes-brightgreen.svg)]
+![Is this project finished ?](https://img.shields.io/badge/finished-yes-brightgreen.svg)
 
 A Very Simple Promise Simulator for Old Browsers
 
